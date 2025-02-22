@@ -1,3 +1,3 @@
 # SimpleRepo
 
-Updating the repo
+Updating the repository
